@@ -1,0 +1,121 @@
+
+
+.name{
+    font-size: 20px;
+    display:block;
+    padding-left:17px;
+}
+
+.noo{
+display: inline;
+
+}
+.foo{
+    display: inline;
+}
+.hi{
+    display: inline;
+}
+.bye{
+    display: inline;
+}
+.fye{
+    display: inline;
+}
+
+#name{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height:10px;
+}
+#phone{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height: 10px;
+}
+#male{
+    margin-bottom:  7px; 
+    padding: 10px;
+
+}
+#female{
+    margin-bottom:  7px;
+    padding: 10px; 
+}
+#date{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height:10px;
+}
+#ddate{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height:10px;
+}
+#picture{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height:10px;
+   
+}
+#passport{
+    margin-bottom:  12px; 
+    padding: 10px;
+    width: 705px;
+    height:10px;
+}
+div select{
+    margin-bottom: 12px;
+    padding: 10px;
+}
+#airline{
+    margin-bottom:  7px; 
+    padding: 10px;
+    
+    
+}
+#rental car{
+    margin-bottom:  7px;
+    padding: 10px; 
+    
+}
+#hotel accomidation{
+    margin-bottom:  7px; 
+    padding: 10px;
+}
+
+
+body{
+    width: 90%;
+    max-width: 800px;
+    height:305;
+    border-radius: 10px;
+    background-color: rgb(241, 160, 215);
+    margin: 50px;
+}
+#gi{
+    width: 705px;
+    height: 31px;
+}
+#hello{
+    width: 100%;
+    height:30px;
+    background-color: darksalmon;
+}
+input[type=submit]:hover,
+input[type=submit]:focus
+{
+    background-color:rgb(175, 247, 226);
+    color:rgb(234, 165, 165);
+}
+#hi{
+    position:fixed;
+    min-height: 100%;
+    min-width: 100%;
+}
+
